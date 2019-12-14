@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidSeminar</string>
+    <string name="you_pressed_me">You pressed me</string>
+    <string name="my_message">My message</string>
+    <string name="search_for_a_pokemon">Search for a pokemon</string>
+    <string name="start_search">Start Search</string>
+</resources>
